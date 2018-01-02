@@ -1,5 +1,5 @@
 # PatateMan vs BombColor #
 
-vous pouvez le télécharger sur itchio [lien du jeu](https://itch.io/jam/gamecodeur-5/rate/119769)
+vous pouvez le télécharger sur itchio [lien du jeu](https://jvlassoie.itch.io/patatemanvsbombcolor)
 
 ![Image](/readmeImage/patate.png)
